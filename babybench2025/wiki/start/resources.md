@@ -1,8 +1,8 @@
 ---
 title: Resources
-parent: Training
+parent: Start here
 layout: default
-nav_order: 2.5
+nav_order: 1
 ---
 
 # Resources
@@ -18,3 +18,5 @@ nav_order: 2.5
 ## Reinforcement learning
 
 ## Intrinsic motivations
+
+## Useful libraries

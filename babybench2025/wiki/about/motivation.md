@@ -1,7 +1,7 @@
 ---
 title: Motivation
 layout: default
-parent: About BabyBench
+parent: About
 nav_order : 0
 ---
 

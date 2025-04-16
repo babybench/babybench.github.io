@@ -7,16 +7,4 @@ nav_exclude: true
 # Wiki
 {: .no_toc }
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+Use the sidebar to navigate through the different sections of the wiki.

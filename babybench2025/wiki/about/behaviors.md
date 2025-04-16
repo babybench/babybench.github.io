@@ -1,11 +1,11 @@
 ---
-title: Environments
+title: Target behaviors
 layout: default
 parent: About
-nav_order : 4
+nav_order : 1
 ---
 
-# Environments
+# Target behaviors
 {: .no_toc }
 
 ## Table of Contents
@@ -14,6 +14,6 @@ nav_order : 4
 1. TOC
 {:toc}
 
-## title 2
+## Self-touch
 
-## tñajasd
+## Hand regard
