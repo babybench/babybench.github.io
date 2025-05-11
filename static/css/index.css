@@ -134,4 +134,107 @@ body {
 }
 
 
+/* Video Carousel */
+.video-carousel {
+  width: 90%; /* Adjust as needed */
+  height: 300px; /* Adjust as needed */
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+  margin-left: 5%; /* Add space on the left side */
+  font-size: 0;
+}
 
+.video-carousel-end {
+  width: 90%; /* Adjust as needed */
+  height: 200px; /* Adjust as needed */
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+  margin-left: 5%; /* Add space on the left side */
+  font-size: 0;
+}
+
+.video-slide {
+  width: 310px; /* 1/5 of the container */
+  height: 100%;
+  margin-right: 20px;
+  padding: 0;
+
+}
+
+.video-slide-end {
+  width: 210px; /* 1/5 of the container */
+  height: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+
+/* Logos */
+.logos {
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logos img {
+  max-height: 100px;
+  width: inherit !important;
+  margin: 25px;
+}
+
+
+/* Counters */
+
+.counter_row {
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.counter_row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.counter_column {
+  float: left;
+  width: 250px;
+  padding: 10px 10px;
+}
+
+.counter_column_single {
+  float: left;
+  width: 500px;
+  padding: 10px 10px;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .counter_column {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .counter_column_single {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+
+.counter {
+  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.041);
+  padding: 24px 16px;
+  text-align: center;
+  background-color: #ececec;
+  color: rgb(255, 255, 255);
+}
+
+.counter h1 {
+  font-size: 4em;
+  margin-bottom: -0.25em;
+}

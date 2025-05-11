@@ -1,5 +1,7 @@
 # BabyBench project website
 
+The website is hosted at [babybench.github.io](https://babybench.github.io).
+
 The project code is available [here](https://github.com/babybench/BabyBench).
 
 The template for the website is available [here](https://github.com/eliahuhorwitz/Academic-project-page-template).
